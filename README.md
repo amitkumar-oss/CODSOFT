@@ -1,5 +1,3 @@
-
-
 # CODSOFT Internship Projects
 
 This repository contains Python projects completed as part of the CodSoft internship.
