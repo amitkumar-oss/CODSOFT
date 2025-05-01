@@ -1,4 +1,3 @@
-
 # Project 3 - Rock-Paper-Scissors Game
 
 This is a Django-based web application for Rock-Paper-Scissors game where the user plays against the computer.
