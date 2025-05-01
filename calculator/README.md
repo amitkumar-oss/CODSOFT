@@ -1,4 +1,3 @@
-
 # Project 1 - CLI Based Simple Calculator
 
 This is a command-line interface (CLI) Python calculator that performs basic arithmetic operations.
