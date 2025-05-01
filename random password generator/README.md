@@ -1,4 +1,3 @@
-
 # Project 2 - Random Password Generator
 
 This is a command-line (CLI) Python application that generates secure, random passwords based on user-selected difficulty level.
